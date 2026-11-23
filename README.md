@@ -1,6 +1,6 @@
-# {{APP_NAME}}
+# b2OcpSp06_1
 
-- **Application Name:** {{APP_NAME}}
-- **Frontend Repository:** `{{FRONTEND_REPO}}`
-- **Live Pages URL:** [{{LIVE_URL}}]({{LIVE_URL}})
+- **Application Name:** b2OcpSp06_1
+- **Frontend Repository:** `b2OcpSp06_1_Frontend`
+- **Live Pages URL:** [https://aviv-cyber.github.io/b2OcpSp06_1_Frontend/](https://aviv-cyber.github.io/b2OcpSp06_1_Frontend/)
 - **Architecture:** VaultDB (AES-GCM Encrypted Endpoint + Cloudflare Worker Proxy)
